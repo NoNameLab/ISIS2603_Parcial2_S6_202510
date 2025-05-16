@@ -1,0 +1,71 @@
+{
+    "id": "36ea5179-d5f2-44cc-878d-bb0289ae97b5",
+    "airlineName": "Air Canada",
+    "country": "Russia",
+    "city": "Chashnikovo",
+    "address": "552 Anniversary Circle",
+    "identityColor": "#5af2fd",
+    "slogan": "iterate 24/365 e-commerce",
+    "flights": [
+        {
+            "id": "251831a9-b61d-4f41-b415-c9bed8c6b39e",
+            "departureAirport": "Los Angeles International",
+            "departureCountry": "USA",
+            "departureCity": "Los Angeles",
+            "arrivalAirport": "San Francisco International",
+            "arrivalCountry": "USA",
+            "arrivalCity": "San Francisco",
+            "departureTime": "15:45",
+            "flightDuration": 1.5,
+            "image": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+        },
+        {
+            "id": "84beb667-8d80-49e4-8c0c-e8a9c1bde6bd",
+            "departureAirport": "Dubai International",
+            "departureCountry": "UAE",
+            "departureCity": "Dubai",
+            "arrivalAirport": "Jomo Kenyatta International",
+            "arrivalCountry": "Kenya",
+            "arrivalCity": "Nairobi",
+            "departureTime": "17:15",
+            "flightDuration": 4,
+            "image": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+        },
+        {
+            "id": "6e73ece7-d5ca-4cd0-95dc-5b55ee891b0e",
+            "departureAirport": "Los Angeles International",
+            "departureCountry": "USA",
+            "departureCity": "Los Angeles",
+            "arrivalAirport": "San Francisco International",
+            "arrivalCountry": "USA",
+            "arrivalCity": "San Francisco",
+            "departureTime": "15:00",
+            "flightDuration": 1.5,
+            "image": "http://dummyimage.com/100x100.png/dddddd/000000"
+        },
+        {
+            "id": "780611a0-5753-484b-95c4-467737dc4761",
+            "departureAirport": "Los Angeles International",
+            "departureCountry": "USA",
+            "departureCity": "Los Angeles",
+            "arrivalAirport": "San Francisco International",
+            "arrivalCountry": "USA",
+            "arrivalCity": "San Francisco",
+            "departureTime": "17:15",
+            "flightDuration": 1.5,
+            "image": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+        },
+        {
+            "id": "53378da1-9149-431d-ad9f-458cc942632a",
+            "departureAirport": "Leonardo da Vinci International",
+            "departureCountry": "Italy",
+            "departureCity": "Rome",
+            "arrivalAirport": "Adolfo Suárez Madrid–Barajas",
+            "arrivalCountry": "Spain",
+            "arrivalCity": "Madrid",
+            "departureTime": "08:00",
+            "flightDuration": 3,
+            "image": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+        }
+    ]
+}

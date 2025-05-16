@@ -1,0 +1,71 @@
+{
+    "id": "3b04ad2f-6e88-40a9-a31f-8bedb546c536",
+    "airlineName": "Southwest Airlines",
+    "country": "Palestinian Territory",
+    "city": "An Naşr",
+    "address": "3 Erie Lane",
+    "identityColor": "#efaa88",
+    "slogan": "expedite bleeding-edge web-readiness",
+    "flights": [
+        {
+            "id": "7828ccb0-2b01-4427-8173-57762614ce35",
+            "departureAirport": "Bole International",
+            "departureCountry": "Ethiopia",
+            "departureCity": "Addis Ababa",
+            "arrivalAirport": "Hamad International",
+            "arrivalCountry": "Qatar",
+            "arrivalCity": "Doha",
+            "departureTime": "17:15",
+            "flightDuration": 3,
+            "image": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+        },
+        {
+            "id": "b102d3e9-ddc8-44db-ad45-f7fd63555290",
+            "departureAirport": "John F. Kennedy International",
+            "departureCountry": "USA",
+            "departureCity": "New York",
+            "arrivalAirport": "Hartsfield-Jackson Atlanta",
+            "arrivalCountry": "USA",
+            "arrivalCity": "Atlanta",
+            "departureTime": "15:00",
+            "flightDuration": 1.5,
+            "image": "http://dummyimage.com/100x100.png/dddddd/000000"
+        },
+        {
+            "id": "eecdecb9-a1da-4229-9906-fb445af9c11b",
+            "departureAirport": "Incheon International",
+            "departureCountry": "South Korea",
+            "departureCity": "Seoul",
+            "arrivalAirport": "Haneda",
+            "arrivalCountry": "Japan",
+            "arrivalCity": "Tokyo",
+            "departureTime": "15:30",
+            "flightDuration": 3,
+            "image": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+        },
+        {
+            "id": "118a947a-b38e-472c-8ef5-71b9968d9722",
+            "departureAirport": "Haneda",
+            "departureCountry": "Japan",
+            "departureCity": "Tokyo",
+            "arrivalAirport": "Incheon International",
+            "arrivalCountry": "South Korea",
+            "arrivalCity": "Seoul",
+            "departureTime": "13:45",
+            "flightDuration": 3,
+            "image": "http://dummyimage.com/100x100.png/dddddd/000000"
+        },
+        {
+            "id": "a63f88c4-ddd0-4746-9f47-369af14fad37",
+            "departureAirport": "Amsterdam Airport Schiphol",
+            "departureCountry": "Netherlands",
+            "departureCity": "Amsterdam",
+            "arrivalAirport": "Charles de Gaulle",
+            "arrivalCountry": "France",
+            "arrivalCity": "Paris",
+            "departureTime": "19:15",
+            "flightDuration": 3,
+            "image": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+        }
+    ]
+}

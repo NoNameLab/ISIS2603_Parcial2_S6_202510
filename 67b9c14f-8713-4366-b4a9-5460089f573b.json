@@ -1,0 +1,71 @@
+{
+    "id": "67b9c14f-8713-4366-b4a9-5460089f573b",
+    "airlineName": "Lufthansa",
+    "country": "Croatia",
+    "city": "Rešetari",
+    "address": "995 Sullivan Court",
+    "identityColor": "#a04ad8",
+    "slogan": "engineer magnetic synergies",
+    "flights": [
+        {
+            "id": "5e684331-a9ff-45d0-b593-e18c4f48d7f3",
+            "departureAirport": "Amsterdam Airport Schiphol",
+            "departureCountry": "Netherlands",
+            "departureCity": "Amsterdam",
+            "arrivalAirport": "Stockholm Arlanda",
+            "arrivalCountry": "Sweden",
+            "arrivalCity": "Stockholm",
+            "departureTime": "06:00",
+            "flightDuration": 3,
+            "image": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+        },
+        {
+            "id": "0b4785d6-684e-4038-bb5e-f7b201fc5198",
+            "departureAirport": "Auckland Airport",
+            "departureCountry": "New Zealand",
+            "departureCity": "Auckland",
+            "arrivalAirport": "Melbourne Airport",
+            "arrivalCountry": "Australia",
+            "arrivalCity": "Melbourne",
+            "departureTime": "13:45",
+            "flightDuration": 5,
+            "image": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+        },
+        {
+            "id": "4b6706b0-2ebe-4313-b298-873c2a8e07c7",
+            "departureAirport": "Adolfo Suárez Madrid–Barajas",
+            "departureCountry": "Spain",
+            "departureCity": "Madrid",
+            "arrivalAirport": "John F. Kennedy International",
+            "arrivalCountry": "USA",
+            "arrivalCity": "New York",
+            "departureTime": "21:45",
+            "flightDuration": 12,
+            "image": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+        },
+        {
+            "id": "f64e7956-e9be-4fda-a5d9-b4db149821c2",
+            "departureAirport": "Copenhagen Airport",
+            "departureCountry": "Denmark",
+            "departureCity": "Copenhagen",
+            "arrivalAirport": "Charles de Gaulle",
+            "arrivalCountry": "France",
+            "arrivalCity": "Paris",
+            "departureTime": "09:00",
+            "flightDuration": 3,
+            "image": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+        },
+        {
+            "id": "93825c21-1ac0-4e5e-83f2-bd7831c93b50",
+            "departureAirport": "Los Angeles International",
+            "departureCountry": "USA",
+            "departureCity": "Los Angeles",
+            "arrivalAirport": "Seattle-Tacoma International",
+            "arrivalCountry": "USA",
+            "arrivalCity": "Seattle",
+            "departureTime": "11:15",
+            "flightDuration": 1.5,
+            "image": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+        }
+    ]
+}

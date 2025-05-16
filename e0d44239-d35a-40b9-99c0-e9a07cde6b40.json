@@ -1,0 +1,71 @@
+{
+    "id": "e0d44239-d35a-40b9-99c0-e9a07cde6b40",
+    "airlineName": "Korean Air",
+    "country": "Portugal",
+    "city": "Arcena",
+    "address": "2 Talmadge Point",
+    "identityColor": "#dc1379",
+    "slogan": "drive impactful architectures",
+    "flights": [
+        {
+            "id": "2f1962d5-00b3-4b69-b908-dd936a3c100b",
+            "departureAirport": "O.R. Tambo International",
+            "departureCountry": "South Africa",
+            "departureCity": "Johannesburg",
+            "arrivalAirport": "Charles de Gaulle",
+            "arrivalCountry": "France",
+            "arrivalCity": "Paris",
+            "departureTime": "11:45",
+            "flightDuration": 3,
+            "image": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+        },
+        {
+            "id": "32908deb-35c5-416f-9f16-2ad7cfd136e0",
+            "departureAirport": "Sydney Airport",
+            "departureCountry": "Australia",
+            "departureCity": "Sydney",
+            "arrivalAirport": "Charles de Gaulle",
+            "arrivalCountry": "France",
+            "arrivalCity": "Paris",
+            "departureTime": "18:00",
+            "flightDuration": 14,
+            "image": "http://dummyimage.com/100x100.png/dddddd/000000"
+        },
+        {
+            "id": "44d45a22-915c-4280-b2e0-196a1ff4b482",
+            "departureAirport": "Benito Juárez International",
+            "departureCountry": "Mexico",
+            "departureCity": "Mexico City",
+            "arrivalAirport": "O'Hare International",
+            "arrivalCountry": "USA",
+            "arrivalCity": "Chicago",
+            "departureTime": "19:00",
+            "flightDuration": 3,
+            "image": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+        },
+        {
+            "id": "67f9469d-9821-47fd-b92d-f87a39b6ea80",
+            "departureAirport": "Haneda",
+            "departureCountry": "Japan",
+            "departureCity": "Tokyo",
+            "arrivalAirport": "Incheon International",
+            "arrivalCountry": "South Korea",
+            "arrivalCity": "Seoul",
+            "departureTime": "10:45",
+            "flightDuration": 3,
+            "image": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+        },
+        {
+            "id": "2405a0bd-7bb2-4ea0-bf26-8affbaad951d",
+            "departureAirport": "Leonardo da Vinci International",
+            "departureCountry": "Italy",
+            "departureCity": "Rome",
+            "arrivalAirport": "Charles de Gaulle",
+            "arrivalCountry": "France",
+            "arrivalCity": "Paris",
+            "departureTime": "21:45",
+            "flightDuration": 3,
+            "image": "http://dummyimage.com/100x100.png/dddddd/000000"
+        }
+    ]
+}
